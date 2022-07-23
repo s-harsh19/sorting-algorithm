@@ -25,4 +25,4 @@ Features:
   
 3) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://aryannn17.github.io/Sorting-Algorithm-Visualizer/
+Take a look at live version: https://s-harsh19.github.io/sorting-algorithm/
